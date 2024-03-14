@@ -1,7 +1,11 @@
 {
-    "geode": "2.0.0-beta.22",
+    "geode": "2.0.0-beta.21",
+    "gd": {
+     "android": "2.205"
+}
     "id": "gmx.funni-mod",
-    "name": "funni mod",
-    "developer": "GMobileX",
-    "version": "v1.0.0"
-   }
+    "name": "Funni Mod",
+    "version": "v1.0.0",
+    "developer": "GMobileX"
+    "description": "cool funni mod"
+}
