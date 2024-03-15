@@ -1,3 +1,3 @@
 # FUNNI MOD
 
-A very cool funni mod
+A very funni mod
