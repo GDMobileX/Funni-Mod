@@ -1,3 +1,3 @@
-# GDTRAP
+# FUNNI MOD
 
-Me when the
+A very cool funni mod
