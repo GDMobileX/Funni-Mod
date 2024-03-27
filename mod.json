@@ -3,7 +3,7 @@
     "gd": {
      "android": "2.205",
 }
-    "id": "gmx.mystery-menu",
+    "id": "gmx.mystery_menu",
     "name": "Mystery Menu",
     "version": "v1.0.0",
     "repository": "https://github.com/GDMobileX/Mystery-Menu",
